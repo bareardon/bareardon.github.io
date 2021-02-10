@@ -83,6 +83,12 @@ h3{
     padding: 10 px;
 }
 
+.col-md-7{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+
 @media (min-width: 0px) and (max-width: 767px) {
     /*Nav Bar Info*/
     .navbar.bg-light{
